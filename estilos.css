@@ -112,3 +112,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.card {
+    border-radius: 0px;
+}
